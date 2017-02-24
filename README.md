@@ -8,14 +8,14 @@ Json parsing tool can flexibly configure
 add to build.gradle,${latest.version} is [![Download][bintray_svg]][bintray_url]
 ```
 dependencies {
-    compile 'com.blakequ.parser:rsa:${latest.version}'
+    compile 'com.blakequ.parser:parser:${latest.version}'
 }
 ```
 maven
 ```
 <dependency>
-  <groupId>com.blakequ.rsa</groupId>
-  <artifactId>rsa</artifactId>
+  <groupId>com.blakequ.parser</groupId>
+  <artifactId>parser</artifactId>
   <version>${latest.version}</version>
   <type>pom</type>
 </dependency>
