@@ -1,0 +1,25 @@
+{
+    "entities": [
+        {
+            "createdTime": 1422347864000,
+            "descript": "2",
+            "index": 45,
+            "id": 43,
+            "isDeleted": false,
+            "name": "患者端宣传广告01",
+            "page": "2",
+            "ids":9,
+            "pic": "upload/pic/2015-03-12/20150312093910706.jpg"
+        },
+        {
+            "descript": "恶趣味全文",
+            "index": 10,
+            "id": 48,
+            "isDeleted": true,
+            "name": "患者端宣传广告02",
+            "page": "23",
+            "pic": "upload/pic/2015-03-12/20150312093934988.jpg"
+        }
+    ],
+    "status": "200"
+}

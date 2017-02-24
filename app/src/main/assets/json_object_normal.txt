@@ -1,0 +1,45 @@
+{
+    "entities": [
+        {
+            "age": 22,
+            "descript": "这破破破",
+            "file1Url": "upload/pic/2015-03-08/20150308130600949.png",
+            "hisDoctor": [
+                {
+                    "createdTime": 1422347864000,
+		            "descript": "2",
+		            "index": 1,
+		            "id": 43,
+		            "isDeleted": false,
+		            "name": "患者端宣传广告01",
+		            "page": "2",
+		            "pic": "upload/pic/2015-03-12/20150312093910706.jpg"
+                },
+                {
+                    "createdTime": 2522347864000,
+		            "descript": "12",
+		            "index": 11,
+		            "id": 413,
+		            "isDeleted": 2,
+		            "name": "患者端宣传广告02",
+		            "page": "21",
+		            "pic": "upload/pic2/2015-03-12/20150312093910706.jpg"
+                }
+            ],
+            "hisUser": {
+	                "createdTime": 1422345678000,
+		            "descript": "261",
+		            "index": 36,
+		            "id": 465,
+		            "isDeleted": 3,
+		            "name": "患者端宣传广告0461",
+		            "page": "261",
+		            "pic": "upload/pic6/2015-03-12/20150312093910706111.jpg"
+            },
+            "id": 736,
+            "isClose": true,
+            "questionContent": "浅表性胃炎常见症状"
+        }
+       ],
+       "status": "200"
+}
