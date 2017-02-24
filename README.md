@@ -154,7 +154,7 @@ parser result:
 - [BLOG](www.blakequ.com)
 
 
-[bintray_svg]: https://api.bintray.com/packages/haodynasty/maven/JsonParser/images/download.svg
-[bintray_url]: https://bintray.com/haodynasty/maven/JsonParser/_latestVersion
+[bintray_svg]: https://api.bintray.com/packages/haodynasty/maven/AndroidJsonParser/images/download.svg
+[bintray_url]: https://bintray.com/haodynasty/maven/AndroidJsonParser/_latestVersion
 [licence_svg]: https://img.shields.io/badge/license-Apache%202-green.svg
 [licence_url]: https://www.apache.org/licenses/LICENSE-2.0
