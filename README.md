@@ -145,6 +145,11 @@ public class UserEntity{
 String str2 = ResourceUtils.geFileFromAssets(this, "json_list.txt");
 List<UserEntity> user = (List<UserEntity>) JsonParserUtils.initEntityParser(UserEntity.class, str2, true);
 ```
+# proguard
+you should add bean to proguard file
+```
+-keep class com.example.data.model.UserEntity {*;}
+```
 
 # screenshot
 parser result:
